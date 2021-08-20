@@ -1,5 +1,7 @@
 # vue-precios-crypto
 
+### Some Crypto List using vue, im not going to host this :|
+
 ## Project setup
 ```
 npm install

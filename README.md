@@ -2,17 +2,17 @@
 
 ### Some Crypto List using vue, im not going to host this :|
 
-## Project setup
+## Project setup (Install Dependencies)
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles for development (like for debug)
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production (Some Minified/Light version)
 ```
 npm run build
 ```

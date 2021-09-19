@@ -1,4 +1,8 @@
-# vue-precios-crypto
+# Vue crypto list
+
+![bitcoin](https://github.com/HankB-o-t/vue-crypto-list/blob/master/bitcoin.png)
+
+### I'm not going to host this
 
 ## Project setup
 ```

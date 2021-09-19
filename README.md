@@ -1,21 +1,24 @@
-# vue-crypto-list
+# vue-precios-crypto
 
-![bitcoin](https://github.com/HankB-o-t/vue-crypto-list/blob/master/bitcoin.png)
-
-### Some Crypto List using vue, im not going to host this :|
-
-## Project setup (Install Dependencies)
+## Project setup
 ```
 npm install
 ```
 
-### Compiles for development (like for debug)
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production (Some Minified/Light version)
+### Compiles and minifies for production
 ```
 npm run build
 ```
 
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

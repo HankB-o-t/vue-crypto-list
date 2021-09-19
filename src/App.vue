@@ -1,6 +1,3 @@
-///// https://youtu.be/4QcNMuQTkqs?t=1608
-
-
 <template>
   <div class="container">
     <div class="row">
